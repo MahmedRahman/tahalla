@@ -22,7 +22,7 @@ class LayoutPage extends StatelessWidget {
     ),
   ];
 
-  var pageIndex = 2.obs;
+  var pageIndex = 0.obs;
 
   // ...
   Widget build(BuildContext context) {
